@@ -22,6 +22,10 @@ Usage
    String a_type = DECL_TYPENAME(a);
    Serial.println( a_type);    // จะแสดงผลคือ int
 ```
+
+![result](example.png)  
   
-_**17 พฤษภาคม 2561BE  (2018)**_  
-_**Ven. Phaisarn Techajaruwong  **_
+_17 พฤษภาคม 2561BE  (2018)_  
+ **Ven. Phaisarn Techajaruwong**_ 
+ 
+ 
