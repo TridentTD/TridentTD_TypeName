@@ -23,6 +23,8 @@ Usage
    Serial.println( a_type);    // จะแสดงผลคือ int
 ```
 
+ตัวอย่างผลการเรียกใช้คำสั่ง 
+---
 ![result](example.png)  
   
 _17 พฤษภาคม 2561BE  (2018)_  
