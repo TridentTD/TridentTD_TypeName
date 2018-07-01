@@ -28,6 +28,6 @@ Usage
 ![result](example.png)  
   
 _17 พฤษภาคม 2561BE  (2018)_  
- **Ven. Phaisarn Techajaruwong**_ 
+ **TridentTD**_ 
  
  
